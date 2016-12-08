@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/hoshina85/test-ci/lib"
+	"github.com/crifff/test-ci/lib"
 	"github.com/serenize/snaker"
 )
 
