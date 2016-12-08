@@ -1,0 +1,6 @@
+hash: 2c2a8a6ae8e7b1f7e6630dd4f66d37cf9030fd795390842d45ce946128738c4d
+updated: 2016-12-08T13:00:05.373562093+09:00
+imports:
+- name: github.com/serenize/snaker
+  version: 8824b61eca66d308fcb2d515287d3d7a28dba8d6
+testImports: []
