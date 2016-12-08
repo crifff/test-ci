@@ -8,9 +8,8 @@ import (
 )
 
 func main() {
-	var s string
-
-	if s, _ := hello(); s != "" {
+	s, err := hello()
+	if err != nil {
 		return
 	}
 	fmt.Println(s)
