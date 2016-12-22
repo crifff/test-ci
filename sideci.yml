@@ -1,0 +1,6 @@
+linter:
+  gometalinter:
+    options:
+      vendor: true
+      tests: true
+      errors: true
