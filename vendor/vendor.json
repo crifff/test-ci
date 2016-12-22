@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "UOkNU1Ua4eADqvSrGFYlv1w1sFc=",
+			"path": "github.com/crifff/private",
+			"revision": "5faec7f3d55b9a22c8d477905f4ba24a40859529",
+			"revisionTime": "2016-12-22T03:09:40Z"
+		},
+		{
+			"checksumSHA1": "KSUzHdRfzlo1JNuxY/DKWUlEt7Y=",
+			"path": "github.com/k0kubun/pp",
+			"revision": "f5dce6ed0ccf6c350f1679964ff6b61f3d6d2033",
+			"revisionTime": "2016-06-02T14:46:26Z"
+		},
+		{
+			"checksumSHA1": "I4njd26dG5hxFT2nawuByM4pxzY=",
+			"path": "github.com/mattn/go-colorable",
+			"revision": "d228849504861217f796da67fae4f6e347643f15",
+			"revisionTime": "2016-11-03T16:00:40Z"
+		},
+		{
+			"checksumSHA1": "xZuhljnmBysJPta/lMyYmJdujCg=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "30a891c33c7cde7b02a981314b4228ec99380cca",
+			"revisionTime": "2016-11-23T14:36:37Z"
+		},
+		{
+			"checksumSHA1": "2pomhK12VRaro+l83VqZ6C3zoSw=",
+			"path": "github.com/serenize/snaker",
+			"revision": "543781d2b79bd95c51ffe70e70a55c946ca211ff",
+			"revisionTime": "2016-11-23T06:43:35Z"
+		}
+	],
+	"rootPath": "github.com/crifff/test-ci"
+}
