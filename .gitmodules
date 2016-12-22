@@ -1,0 +1,3 @@
+[submodule "vendor/github.com/serenize/snaker"]
+	path = vendor/github.com/serenize/snaker
+	url = https://github.com/serenize/snaker
