@@ -1,0 +1,6 @@
+[submodule "vendor/github.com/serenize/snaker"]
+	path = vendor/github.com/serenize/snaker
+	url = https://github.com/serenize/snaker
+[submodule "vendor/github.com/k0kubun/pp"]
+	path = vendor/github.com/k0kubun/pp
+	url = https://github.com/k0kubun/pp

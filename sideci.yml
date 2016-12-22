@@ -1,0 +1,8 @@
+linter:
+  ignore_path:
+    - vendor
+  gometalinter:
+    options:
+      vendor: true
+      tests: true
+      errors: true
