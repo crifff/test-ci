@@ -1,9 +1,8 @@
 package main
 
 import (
-	"fmt"
-
 	"github.com/crifff/test-ci/lib"
+	"github.com/k0kubun/pp"
 	"github.com/serenize/snaker"
 )
 
@@ -12,7 +11,7 @@ func main() {
 	if err != nil {
 		return
 	}
-	fmt.Println(s)
+	pp.Print(s)
 }
 
 func hello() (string, error) {
